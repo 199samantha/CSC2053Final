@@ -1,2 +1,6 @@
 Sam White
+<<<<<<< HEAD
 swhite20@villanova.edu
+=======
+Second Person
+>>>>>>> 5b0ef74a90342dc5fe0890a7da47a484cceb5557
